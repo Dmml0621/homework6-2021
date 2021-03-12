@@ -1,2 +1,1 @@
-# homework6-2021
-vvv
+# hw6-2021
